@@ -7,3 +7,9 @@ Setting up the GitHub repository correctly still seems to be my biggest challeng
 After lots of help from Google, I am starting to familiarize myself with some of the JS language. Creating functions, making variables and constants has proven to be difficult and immediately headache inducing. 
 
 I know what I am submitting is not to the exact criteria of the module, but I was wanting to submit something to show that I am attempting to get better everyday. 
+
+GitHub Repository URL: https://github.com/YourFunkyDad/Password-Randomizer
+
+Deployed URL: https://yourfunkydad.github.io/Password-Randomizer/
+
+![Screenshot](PG_Screenshot.png)
