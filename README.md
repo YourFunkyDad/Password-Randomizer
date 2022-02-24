@@ -12,4 +12,4 @@ GitHub Repository URL: https://github.com/YourFunkyDad/Password-Randomizer
 
 Deployed URL: https://yourfunkydad.github.io/Password-Randomizer/
 
-![Screenshot](PG_Screenshot.png)
+![Screenshot](./Develop/images/PG_Screenshot.png)
